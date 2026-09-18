@@ -1,0 +1,18 @@
+# Bytecode and build outputs
+bin/
+*.class
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Test temp files
+test_data_*/
