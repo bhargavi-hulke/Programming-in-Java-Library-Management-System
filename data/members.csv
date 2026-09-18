@@ -1,0 +1,5 @@
+memberId,name,email,phone,activeBorrowCount
+M101,Aarav Sharma,aarav.s@vit.ac.in,9876543210,1
+M102,Priya Patel,priya.p@vit.ac.in,9123456780,1
+M103,Rohan Mehta,rohan.m@vit.ac.in,9988776655,0
+M104,Sneha Rao,sneha.r@vit.ac.in,9765432109,0

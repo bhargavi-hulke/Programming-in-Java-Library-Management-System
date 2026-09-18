@@ -1,0 +1,15 @@
+package exception;
+
+/**
+ * Base custom checked exception for the Library Management System.
+ * Demonstrates Java Exception Handling hierarchy.
+ */
+public class LibraryException extends Exception {
+    public LibraryException(String message) {
+        super(message);
+    }
+
+    public LibraryException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}

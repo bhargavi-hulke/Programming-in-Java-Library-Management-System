@@ -1,0 +1,3 @@
+transactionId,bookId,memberId,borrowDate,dueDate,returnDate,status
+TX1001,B101,M101,2026-09-13,2026-09-27,NONE,ACTIVE
+TX1002,B102,M102,2026-08-29,2026-09-12,NONE,OVERDUE

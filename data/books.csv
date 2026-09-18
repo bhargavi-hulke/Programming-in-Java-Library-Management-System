@@ -1,0 +1,8 @@
+bookId,title,author,genre,totalCopies,availableCopies
+B101,Introduction to Java Programming,Y. Daniel Liang,Technology,5,4
+B102,Effective Java,Joshua Bloch,Technology,3,2
+B103,Clean Code,Robert C. Martin,Technology,4,4
+B104,Data Structures and Algorithms,Robert Lafore,Education,4,3
+B105,Design Patterns,Erich Gamma,Software Engineering,2,2
+B106,Operating System Concepts,Silberschatz,Education,3,3
+B107,Database System Concepts,Korth & Sudarshan,Education,3,3
