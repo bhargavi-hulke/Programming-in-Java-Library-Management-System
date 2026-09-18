@@ -1,10 +1,5 @@
 # Smart Library Management System (LMS)
 
-[![Language](https://img.shields.io/badge/Language-Java%2021%2B-orange.svg)](https://www.oracle.com/java/)
-[![Architecture](https://img.shields.io/badge/Architecture-Modular%20Layered-blue.svg)]()
-[![Tests](https://img.shields.io/badge/Tests-23%20Passing-brightgreen.svg)]()
-[![Persistence](https://img.shields.io/badge/Storage-CSV%20File%20IO-lightgrey.svg)]()
-
 > A robust, lightweight, object-oriented Library Management System built for the **VITyarthi Course Project Evaluation**. Fully satisfies all academic guidelines, featuring modular architecture, custom exception handling, file persistence, and an automated test suite.
 
 ---
